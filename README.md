@@ -3,7 +3,13 @@
  ## Hello, I'm Nick! 👋
   <br/>
    <br/>
- I'm front-end developer!
+If you want to contact me, please leave me a message!
+   <br/>
+💻 I'm a Web Develover
+   <br/>
+🇰🇷 I'm living in Seoul
+   <br/>
+❤️ I love developing and communicating!
  <br/>
   <br/>
    <br/>
