@@ -14,7 +14,7 @@ Languages and Tools I Use 🔧:
 
 🌐 JavaScript | TypeScript | React
 
-📱 Responsive Design | UI/UX Principles | Mobile First Strategy
+😄 Russian | English | Korean
 
 💬 Feel free to reach out!
 I’m always open to new collaborations, opportunities, and sharing knowledge. Let's build something amazing together!
