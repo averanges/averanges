@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**averanges/averanges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 Located in South Korea, Seoul
+✉️  You can contact me at nick.belichenko@gmail.com
+🤝  I'm open to collaborating on Frontend / Mobile development
+⚡ I like videogames, hiking ⛰️, exploring something new 🌍
 
-Here are some ideas to get you started:
+Languages and Tools I Use 🔧:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚛️ Flutter | Dart 
+
+🌐 JavaScript | TypeScript | React
+
+📱 Responsive Design | UI/UX Principles | Mobile First Strategy
+
+💬 Feel free to reach out!
+I’m always open to new collaborations, opportunities, and sharing knowledge. Let's build something amazing together!
