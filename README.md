@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 🧑‍💻 Located in South Korea, Seoul
+
 ✉️  You can contact me at nick.belichenko@gmail.com
+
 🤝  I'm open to collaborating on Frontend / Mobile development
+
 ⚡ I like videogames, hiking ⛰️, exploring something new 🌍
 
 Languages and Tools I Use 🔧:
